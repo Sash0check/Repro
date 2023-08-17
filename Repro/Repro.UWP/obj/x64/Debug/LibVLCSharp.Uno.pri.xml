@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="LibVLCSharp.Uno" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US,FR-FR</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="LibVLCSharp.Uno">
+				<NamedResource name="LibVLCSharp.Uno.xr.xml" uri="ms-resource://LibVLCSharp.Uno/Files/LibVLCSharp.Uno/LibVLCSharp.Uno.xr.xml">
+					<Candidate type="Path">
+						<Value>LibVLCSharp.Uno\LibVLCSharp.Uno.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xaml" uri="ms-resource://LibVLCSharp.Uno/Files/LibVLCSharp.Uno/Themes/Generic.xaml">
+						<Candidate type="Path">
+							<Value>LibVLCSharp.Uno\Themes\Generic.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Generic.xbf" uri="ms-resource://LibVLCSharp.Uno/Files/LibVLCSharp.Uno/Themes/Generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MediaPlayerElement.xaml" uri="ms-resource://LibVLCSharp.Uno/Files/LibVLCSharp.Uno/Themes/MediaPlayerElement.xaml">
+						<Candidate type="Path">
+							<Value>LibVLCSharp.Uno\Themes\MediaPlayerElement.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="MediaPlayerElement.xbf" uri="ms-resource://LibVLCSharp.Uno/Files/LibVLCSharp.Uno/Themes/MediaPlayerElement.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PlaybackControls.xaml" uri="ms-resource://LibVLCSharp.Uno/Files/LibVLCSharp.Uno/Themes/PlaybackControls.xaml">
+						<Candidate type="Path">
+							<Value>LibVLCSharp.Uno\Themes\PlaybackControls.xaml</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="PlaybackControls.xbf" uri="ms-resource://LibVLCSharp.Uno/Files/LibVLCSharp.Uno/Themes/PlaybackControls.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="LibVLCSharp.Uno">
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="AspectRatio" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/AspectRatio">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Proportions</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Aspect Ratio</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AspectRatioBestFit" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/AspectRatioBestFit">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Adapté à l'écran</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Best fit</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AspectRatioFill" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/AspectRatioFill">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Étiré</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Fill</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AspectRatioFitScreen" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/AspectRatioFitScreen">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Plein écran</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Fit screen</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AspectRatioOriginal" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/AspectRatioOriginal">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Original</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Original</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AspectRatio_16_9" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/AspectRatio_16_9">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>16/9</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>16:9</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AspectRatio_4_3" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/AspectRatio_4_3">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>4/3</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>4:3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Disconnect" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/Disconnect">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Déconnecter</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Disconnect</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Error" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/Error">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Erreur avec le média {0}</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Error with media {0}</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Mute" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/Mute">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Muet</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Mute</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="None" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/None">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Aucun</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>None</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Pause" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/Pause">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Suspendre</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Pause</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Play" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/Play">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Lecture</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Play</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ShowAudioSelectionMenu" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/ShowAudioSelectionMenu">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Afficher le menu de sélection audio</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Show audio selection menu</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ShowCastMenu" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/ShowCastMenu">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Afficher le menu Diffuser sur un appareil</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Show Cast to device menu</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ShowClosedCaptionMenu" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/ShowClosedCaptionMenu">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Afficher le menu des sous-titres</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Show closed caption menu</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ShowVolumeMenu" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/ShowVolumeMenu">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Afficher le menu Volume</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Show volume menu</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Stop" uri="ms-resource://LibVLCSharp.Uno/LibVLCSharp.Uno/Resources/Stop">
+					<Candidate qualifiers="Language-FR-FR" type="String">
+						<Value>Stop</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Stop</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjR5YzH7GmaFZR4nB0k513jF5xVSxTRd8+slVSzCmP6oaHZzpoMqZEhirXhvm3oOQwm4eGs/vjd+jjDgjGTMIQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Repro\\Repro\\Repro.Mobile\\Repro.Mobile.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net6.0-android, net6.0-ios, net6.0-maccatalyst"
+    }
+  ]
+}

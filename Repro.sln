@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Repro.Shared", "Repro\Repro.Shared\Repro.Shared.shproj", "{6279C845-92F8-4333-AB99-3D213163593C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repro.Uwp", "Repro\Repro.UWP\Repro.Uwp.csproj", "{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|Any CPU.Build.0 = Debug|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|Any CPU.Deploy.0 = Debug|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|ARM.Build.0 = Debug|ARM
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|ARM64.Build.0 = Debug|ARM64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|x64.ActiveCfg = Debug|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|x64.Build.0 = Debug|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|x64.Deploy.0 = Debug|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|x86.ActiveCfg = Debug|x86
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|x86.Build.0 = Debug|x86
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Debug|x86.Deploy.0 = Debug|x86
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|Any CPU.ActiveCfg = Release|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|Any CPU.Build.0 = Release|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|Any CPU.Deploy.0 = Release|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|ARM.ActiveCfg = Release|ARM
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|ARM.Build.0 = Release|ARM
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|ARM.Deploy.0 = Release|ARM
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|ARM64.ActiveCfg = Release|ARM64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|ARM64.Build.0 = Release|ARM64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|ARM64.Deploy.0 = Release|ARM64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|x64.ActiveCfg = Release|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|x64.Build.0 = Release|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|x64.Deploy.0 = Release|x64
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|x86.ActiveCfg = Release|x86
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|x86.Build.0 = Release|x86
+		{CB7637C0-3219-46D3-A54A-2AB7217CF8D6}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24D4D517-B6B0-4EB7-B376-F3C6EA03AF33}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Repro\Repro.Shared\Repro.Shared.projitems*{6279c845-92f8-4333-ab99-3d213163593c}*SharedItemsImports = 13
+		Repro\Repro.Shared\Repro.Shared.projitems*{cb7637c0-3219-46d3-a54a-2ab7217cf8d6}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal
